@@ -1,33 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9bed49-fdab-493e-ac91-04583a58a071" name="Default" comment="" />
-    <ignored path="Algorithm.iws" />
-    <ignored path=".idea/workspace.xml" />
+    <list default="true" id="512f8e12-94c5-46e9-9709-cf5a3f0b2045" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/BubbleSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/BubbleSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/BubbleSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/InsertionSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/InsertionSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/InsertionSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/tools/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/tools/Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/tools/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/tools/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/tools/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/GenericUnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QU_R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QU_R_PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QU_R_PH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QU_R_PS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter02_union/union/UnionFind_QU_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter03_graph/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter03_graph/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter03_graph/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter03_graph/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter03_graph/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter03_graph/graph/ListGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter04_recursion/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter04_recursion/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter04_recursion/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter04_recursion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter04_recursion/TailCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter04_recursion/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter05_recall/Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter05_recall/Queens2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter05_recall/Queens3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter06_greed/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter06_greed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter06_greed/Pirate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter06_greed/ks/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter06_greed/ks/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter07_dynamic_programming/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter07_dynamic_programming/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter07_dynamic_programming/LCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter07_dynamic_programming/LCSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter07_dynamic_programming/LIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter07_dynamic_programming/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter08_bloom_filter/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter08_bloom_filter/BloomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter08_bloom_filter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter09_skip_list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter09_skip_list/SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter09_skip_list/tools/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter09_skip_list/tools/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter10_kmp/BruteForce01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter10_kmp/BruteForce02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter10_kmp/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter10_kmp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter10_kmp/tools/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter10_kmp/tools/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter00_complexity/Num_1_FibonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter00_complexity/Num_2_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/ArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/Num_1_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/circle/CircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/circle/SingleCircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/single/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/single/SingleLinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/list/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/circle/CircleDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/circle/CircleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter04_queue/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree_2/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/btree/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/tree/BBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/tree/RBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/file/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/set/ListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/set/TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/tree/BBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter08_set/tree/RBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/file/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/map/TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter09_map/set/TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/file/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/map/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/map/HashMap_v0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/map/LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/map/TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/model/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/model/SubKey1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/model/SubKey2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/set/HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/set/LinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter10_hashtable/set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/heap/AbstractHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/heap/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/heap/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter12_priority_queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter12_priority_queue/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter12_priority_queue/heap/AbstractHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter12_priority_queue/heap/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter12_priority_queue/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter12_priority_queue/queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter13_trie/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter13_trie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter13_trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/utils/Times.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="Algorithm" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/list/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/Printer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/InsertionSort3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/LevelOrderPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter00_complexity/Num_1_FibonacciSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/single/SingleLinkedList2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+              <folding>
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/BubbleSort1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -37,200 +326,378 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/data/algorithm/chapter01_sort/sort/cmp/InsertionSort3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/single/SingleLinkedList2.java" />
+      </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter01_sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter01_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter01_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="cmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter04_recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter01_linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter01_linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03_stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter07_red_black_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter07_red_black_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589005374615" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-    </list>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e9bed49-fdab-493e-ac91-04583a58a071" name="Default" comment="" />
-      <created>1494040226060</created>
+      <changelist id="512f8e12-94c5-46e9-9709-cf5a3f0b2045" name="Default Changelist" comment="" />
+      <created>1589005111799</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1494040226060</updated>
-      <workItem from="1494040234969" duration="9000" />
+      <updated>1589005111799</updated>
+      <workItem from="1589005115272" duration="205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9000" />
+    <option name="totallyTimeSpent" value="205000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="LuaCheck" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="JDT AST" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="leetcode" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Translate" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter07_red_black_tree/printer/InorderPrinter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/BubbleSort2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter11_heap/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/LevelOrderPrinter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter05_binary_search_tree/printer/Printer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/InorderPrinter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter03_stack/list/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/Printer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/InsertionSort3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter06_avl/printer/LevelOrderPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter00_complexity/Num_1_FibonacciSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/BubbleSort1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/algorithm/chapter01_sort/sort/cmp/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunyinhui/data/structures/chapter01_linkedlist/single/SingleLinkedList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding>
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
